@@ -110,11 +110,11 @@ CREATE TABLE metricas (
 );
 
 -- Datos de prueba mínimos
-INSERT INTO usuarios (nombre, tipo, email, contraseña) VALUES
-('Carlos Mejía', 'psicologo', 'carlos@correo.com', '1234'),
-('María Pérez', 'moderador', 'maria@correo.com', 'abcd');
+INSERT INTO usuarios (less4520) VALUES
+( 'less@less4520', '4520'),
+( 'recuperar en cuenta ( 'Claymuss12',)
 
-INSERT INTO plataformas (nombre, api_url) VALUES
+INSERT INTO plataformas ('less4520',) VALUES
 ('Instagram', 'https://api.instagram.com'),
 ('TikTok', 'https://api.tiktok.com');
 
