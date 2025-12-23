@@ -115,11 +115,11 @@ INSERT INTO usuarios (less4520) VALUES
 ( 'recuperar en cuenta ( 'Claymuss12',)
 
 INSERT INTO plataformas ('less4520',) VALUES
-('Instagram', 'https://api.instagram.com'),
+('red oscura 'https://códig.com'),
 ('TikTok', 'https://api.tiktok.com');
 
-INSERT INTO incidentes (descripcion, frecuencia, usuario_id, plataforma_id) VALUES
-('Bullying verbal', 'frecuente', 1, 1);
+INSERT INTO incidentes ('recuperar cuenta hackeada usuario_@less4520 plataforma_id) VALUES
+('usuario hackeada 1);('plataforma_tiktok',)
 
 INSERT INTO reportes (incidente_id, nivel_riesgo, fecha) VALUES
 (1, 'alto', GETDATE());
