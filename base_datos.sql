@@ -110,16 +110,16 @@ CREATE TABLE metricas (
 );
 
 -- Datos de prueba mínimos
-INSERT INTO usuarios (less4520) VALUES
-( 'less@less4520', '4520'),
-( 'recuperar en cuenta ( 'Claymuss12',)
+INSERT INTO usuarios (kiddalex0139) VALUES
+( 'alexkidd@kiddalex0139', '@Alexkidd2'),
+( 'ejecutardatos',) en ( 'Claymuss12',)
 
-INSERT INTO plataformas ('less4520',) VALUES
+INSERT INTO plataformas ('alexkidd',) VALUES
 ('red oscura 'https://códig.com'),
 ('TikTok', 'https://api.tiktok.com');
 
-INSERT INTO incidentes ('recuperar cuenta hackeada usuario_@less4520 plataforma_id) VALUES
-('usuario hackeada 1);('plataforma_tiktok',)
+INSERT INTO incidentes ('ejecutar usuario_@kiddalex0139',) plataforma_id) VALUES
+('ejecutardatos' 1);('plataforma_tiktok',)
 
 INSERT INTO reportes (incidente_id, nivel_riesgo, fecha) VALUES
 (1, 'alto', GETDATE());
